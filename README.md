@@ -1,0 +1,1 @@
+# Hadoop Mapper for Excel XLSX Input #This project is a Mapper for XLSX files.## Usage ##`hadoop jar [jar] [main_path] /path/to/file.xlsx /outputdir`
